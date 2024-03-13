@@ -13,3 +13,5 @@ To run the program:
       - In command prompt: pip install psycopg2-binary
   - Navigate to the directory where COMP3005_Assignment3.py is stored
   - In command prompt type 'python COMP3005_Assignment3.py' to run the application.
+
+Here is the [YouTube Video Link](https://youtu.be/Rr5XuUTykIs).
